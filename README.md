@@ -8,7 +8,7 @@ The Base64 Convert App is a Python script that automates the process of converti
 
 - Converts images in the `images` folder to Base64 format.
 - Saves the Base64 string to a `.txt` file with the same name as the image.
-- Resizes the image to 250x160 pixels.
+- Resizes the image to 250x160 pixels. ( or the size you want, can be edited )
 - Converts the resized image to WebP format.
 - Saves the WebP image with a `_converted.webp` suffix.
 
