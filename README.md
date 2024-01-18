@@ -1,4 +1,4 @@
-# Base64 Convert App
+# Base64 Convert Images - Get txt file with base64 and a webp from jpg or png
 
 ## Overview
 
